@@ -4,13 +4,44 @@
     "stream_id": 1,
     "name": "Big Buck Bunny",
     "stream_type": "movie",
-    "stream_icon": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-    "rating": "4.5",
-    "rating_5based": 4.5,
+    "stream_icon": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+    "rating": "7.2",
+    "rating_5based": 3.6,
     "added": "1609459200",
     "category_id": "1",
     "container_extension": "mp4",
     "custom_sid": "",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "tmdb_id": "10378"
+  },
+  {
+    "num": 2,
+    "stream_id": 2,
+    "name": "Elephants Dream",
+    "stream_type": "movie",
+    "stream_icon": "https://image.tmdb.org/t/p/w500/dQLGDjv8JnRXReiKFfsPJfJPjM7.jpg",
+    "rating": "6.5",
+    "rating_5based": 3.25,
+    "added": "1609459200",
+    "category_id": "1",
+    "container_extension": "mp4",
+    "custom_sid": "",
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "tmdb_id": "45745"
+  },
+  {
+    "num": 3,
+    "stream_id": 3,
+    "name": "Sintel",
+    "stream_type": "movie",
+    "stream_icon": "https://image.tmdb.org/t/p/w500/sXEGeRMChI6bGGKPj2P0Vbd5z9C.jpg",
+    "rating": "7.8",
+    "rating_5based": 3.9,
+    "added": "1609545600",
+    "category_id": "1",
+    "container_extension": "mp4",
+    "custom_sid": "",
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "tmdb_id": "45745"
   }
 ]
