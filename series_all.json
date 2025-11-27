@@ -1,16 +1,16 @@
 [
   {
     "series_id": 100,
-    "name": "Sample Series",
-    "cover": "https://via.placeholder.com/400",
-    "plot": "Sample plot for demo series.",
+    "name": "Demo Series",
+    "cover": "https://image.tmdb.org/t/p/w500/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+    "plot": "Una serie de demostración para Apple Store review.",
     "cast": "Demo Cast",
     "director": "Demo Director",
-    "genre": "Drama",
+    "genre": "Drama, Ficción",
     "releaseDate": "2024",
     "last_modified": "1609459200",
-    "rating": "4.0",
-    "rating_5based": 4.0,
+    "rating": "8.5",
+    "rating_5based": 4.25,
     "youtube_trailer": "",
     "episode_run_time": "45",
     "category_id": "10"
