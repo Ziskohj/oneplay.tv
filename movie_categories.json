@@ -13,5 +13,65 @@
     "category_id": "3",
     "category_name": "Drama",
     "parent_id": 0
+  },
+  {
+    "category_id": "4",
+    "category_name": "Comedia",
+    "parent_id": 0
+  },
+  {
+    "category_id": "5",
+    "category_name": "Terror",
+    "parent_id": 0
+  },
+  {
+    "category_id": "6",
+    "category_name": "Documental",
+    "parent_id": 0
+  },
+  {
+    "category_id": "7",
+    "category_name": "Romance",
+    "parent_id": 0
+  },
+  {
+    "category_id": "8",
+    "category_name": "Aventura",
+    "parent_id": 0
+  },
+  {
+    "category_id": "9",
+    "category_name": "Ciencia Ficción",
+    "parent_id": 0
+  },
+  {
+    "category_id": "10",
+    "category_name": "Fantasía",
+    "parent_id": 0
+  },
+  {
+    "category_id": "11",
+    "category_name": "Thriller",
+    "parent_id": 0
+  },
+  {
+    "category_id": "12",
+    "category_name": "Misterio",
+    "parent_id": 0
+  },
+  {
+    "category_id": "13",
+    "category_name": "Histórica",
+    "parent_id": 0
+  },
+  {
+    "category_id": "14",
+    "category_name": "Crimen",
+    "parent_id": 0
+  },
+  {
+    "category_id": "15",
+    "category_name": "Familia",
+    "parent_id": 0
   }
 ]
